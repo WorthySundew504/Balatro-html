@@ -1,0 +1,2 @@
+git clone https://github.com/TannerRogalsky/love.js.git
+git submodule update --init --recursive
